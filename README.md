@@ -37,5 +37,5 @@ I'm sure you're asking, why did I make this repository, it's because I saw a bug
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/ivanwebdevs/ACCESSGO/main/screenshot/sc1.png)
 
